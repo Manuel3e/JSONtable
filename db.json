@@ -1,0 +1,31 @@
+{ 
+ "post":[
+   { 
+    "id": 1,
+    "name": "Victor",
+    "rol": "Student",
+    "genere": "male"
+   },
+   { 
+    "id": 2,
+    "name": "Luis",
+    "rol": "Student",
+    "genere": "male"
+   },
+   {
+    "id": 3,
+    "name": "Alex Belleza",
+    "rol": "teacher",
+    "genere": "male"
+   },
+   {
+    "id": 4,
+    "name": "Angel",
+    "rol": "student",
+    "genere": "male"
+   }
+ ],
+ "profile":{
+     "name": "Manuel3e"
+ }
+}
