@@ -1,28 +1,28 @@
 { 
- "post":[
+ "comments":[
    { 
     "id": 1,
-    "name": "Victor",
-    "rol": "Student",
-    "genere": "male"
+    "nombre": "Jasiel",
+    "apellidos": "Adrianzen",
+    "email": "jasiel.adrianzen@example.com"
    },
    { 
     "id": 2,
-    "name": "Luis",
-    "rol": "Student",
-    "genere": "male"
+    "nombre": "Cesar",
+    "apellidos": "Calderon",
+    "email": "Cesar.calderon@example.com"
    },
    {
     "id": 3,
-    "name": "Alex Belleza",
-    "rol": "teacher",
-    "genere": "male"
+    "nombre": "Fernando",
+    "apellidos": "Lopez",
+    "email": "fernando.lopez@example.com"
    },
    {
     "id": 4,
-    "name": "Angel",
-    "rol": "student",
-    "genere": "male"
+    "nombre": "Juan",
+    "apellidos": "Meza",
+    "email": "Juan.meza@example.com"
    }
  ],
  "profile":{
